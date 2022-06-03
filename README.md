@@ -16,10 +16,10 @@
 </p>
 
 <p>
- Desenvolvedor Mobile desde 2017, hoje na Souk, tive o primeiro contato com programação em 2015 no curso técnico do IFPE. <br /> Em 2017 participei do meu primeiro  hackathon, o Hack A City, com minha equipe ficando em terceiro lugar com o projeto Recicle+. 
+ Desenvolvedor desde 2017, tive o primeiro contato com programação em 2015 no curso técnico do IFPE. <br /> Em 2017 participei do meu primeiro  hackathon, o Hack A City, com minha equipe ficando em terceiro lugar com o projeto Recicle+. 
    <br /><br />
-   Sou apaixonado pela área e estou novamente na instituição que me apresentou o primeiro "Hello World", mas agora no curso de Análise e Desenvolvimento de Sistemas.
+  Sou apaixonado por tecnologia e pelo desenvolvimento de sistemas. sempre evoluindo estudando novas tecnologias e também cursando Análise e Desenvolvimento de Sistemas.
 </p>
 <p>
-   Com experiência de 3 anos com o Ionic framework, Hoje estou focado na tecnologia React Native.
+   Com experiência de 4 anos com o Ionic framework, Hoje estou focado nas tecnologias ReactJS e React Native.
 </p>
