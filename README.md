@@ -16,7 +16,7 @@
 </p>
 
 <p>
- Desenvolvedor desde 2017, tive o primeiro contato com programação em 2015 no curso técnico do IFPE. <br /> Em 2017 participei do meu primeiro  hackathon, o Hack A City, com minha equipe ficando em terceiro lugar com o projeto Recicle+. 
+ Desenvolvedor desde 2017, tive o primeiro contato com programação em 2015 no curso técnico do IFPE. <br /> Em 2017 participei do hackathon Hack A City, com minha equipe ficando em terceiro lugar com o projeto Recicle+. 
    <br /><br />
   Sou apaixonado por tecnologia e pelo desenvolvimento de sistemas. sempre evoluindo estudando novas tecnologias e também cursando Análise e Desenvolvimento de Sistemas.
 </p>
